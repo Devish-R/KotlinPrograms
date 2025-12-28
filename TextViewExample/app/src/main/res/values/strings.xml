@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextViewExample</string>
+    <string name="helloworld_welcome_to_the_city">HelloWorld Welcome to the city</string>
+</resources>
