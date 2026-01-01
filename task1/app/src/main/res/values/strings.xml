@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">task1</string>
+    <string name="title">REGISTRATION PAGE</string>
+    <string name="tv_name">NAME:</string>
+    <string name="tv_mail">E-MAIL:</string>
+    <string name="tv_password">PASSWORD:</string>
+    <string name="et_name">Enter your name</string>
+    <string name="et_password">Enter your password</string>
+    <string name="et_email">Enter your email id</string>
+    <string name="btn">REGISTER</string>
+    <string name="signin">LOG IN PAGE</string>
+    <string name="sname">NAME</string>
+    <string name="spassword">PASSWORD</string>
+    <string name="sename">Enter your name</string>
+    <string name="sepassword">Enter you password</string>
+    <string name="semail">Enter your email</string>
+    <string name="smail">EMAIL</string>
+</resources>
